@@ -9,7 +9,8 @@
     "footer": {
         "text": "Amazon India",
         "isBold": false,
-        "isItalic": true
+        "isItalic": true,
+        "color": "#1e35fc"
     }
 
 }
