@@ -1,0 +1,15 @@
+{
+    "vendorId": "n6sYhnsQ",
+    "vendorName": "Amazon Music",
+    "genres": [
+        "Malayalam",
+        "Tamil",
+        "Hindi"
+    ],
+    "footer": {
+        "text": "Amazon India",
+        "isBold": false,
+        "isItalic": true
+    }
+
+}
