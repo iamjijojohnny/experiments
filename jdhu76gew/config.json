@@ -1,0 +1,20 @@
+{
+    "vendorId": "jdhu76gew",
+    "vendorName": "Spotify",
+    "genres": [
+        "Pop",
+        "Rock",
+        "Jaz",
+        "Romantic",
+        "Fast Beat",
+        "Sad",
+        "Night Drive",
+        "Editor Pick"
+    ],
+    "footer": {
+        "text": "Spotify India",
+        "isBold": true,
+        "isItalic": false
+    }
+
+}
