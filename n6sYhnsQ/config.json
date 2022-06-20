@@ -6,6 +6,17 @@
         "Tamil",
         "Hindi"
     ],
+    "sections": [
+        {
+            "title": {
+                "text": "Top Artists",
+                "isBold": true,
+                "isItalic": false,
+                "color": "#79a832"
+            },
+            "url": "data/artists.json"
+        }
+    ],
     "footer": {
         "text": "Amazon India",
         "isBold": false,
