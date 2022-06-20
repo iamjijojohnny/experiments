@@ -11,6 +11,17 @@
         "Night Drive",
         "Editor Pick"
     ],
+    "sections": [
+        {
+            "title": {
+                "text": "Top Artists",
+                "isBold": true,
+                "isItalic": false,
+                "color": "6232a8"
+            },
+            "url": "data/artists.json"
+        }
+    ],
     "footer": {
         "text": "Spotify India",
         "isBold": true,
